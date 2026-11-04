@@ -1,0 +1,18 @@
+{
+  "name": "Alex Example",
+  "headline": "Product Owner  |  Backlog Ownership, Automation & AI",
+  "tagline": "Aspiring Product Manager",
+  "contact": "City, Country  |  alex@example.com  |  linkedin.com/in/alex-example",
+  "summary": "Business systems analyst with six years taking automation and AI products from a loose request to a **measured result**.",
+  "jobs": [
+    {"title": "Example Corp  |  Business Systems Analyst", "dates": "2024 – Present", "blocks": [
+      {"h": "Returns automation (CRM → ERP)", "b": [
+        "Turned refund eligibility into explicit business rules with acceptance criteria per rule.",
+        "Ran the rollout as a 50/50 test and control to separate labour savings from behaviour change."
+      ]}
+    ]}
+  ],
+  "skills": [["Product", "Discovery, prioritisation, user stories, acceptance criteria, adoption metrics"]],
+  "certs": "Example certification (2026)",
+  "education": [["MBA – Example School", "2019 – 2021"]]
+}
