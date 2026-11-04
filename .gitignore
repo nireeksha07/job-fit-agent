@@ -1,0 +1,6 @@
+master_resume.md
+applications_tracker.csv
+application_answers.md
+*.docx
+*.pdf
+node_modules/
